@@ -1,5 +1,8 @@
 _repo: The-Wisdom-of-Fools_53579
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 53579-h/images/cover.jpg
 creator:
   author:
     agent_name: Deland, Margaret Wade Campbell
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/888
     wikipedia: http://en.wikipedia.org/wiki/Margaret_Deland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53579#The-Wisdom-of-Fools
 gutenberg_issued: '2016-11-23'
 gutenberg_type: Text
 identifiers:
